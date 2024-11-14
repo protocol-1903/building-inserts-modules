@@ -5,5 +5,5 @@
   "description": "Placing buildings puts modules into them if they are requested.\nSo simple it feels vanilla!\nRequested by infantryman4life on discord",
   "author": "protocol_1903",
   "factorio_version": "2.0",
-  "dependencies": ["base"]
+  "dependencies": ["base >= 2.0.11"]
 }

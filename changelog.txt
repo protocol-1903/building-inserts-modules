@@ -1,9 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
-Date: ????
+Date: 2024-11-14
   Changes:
     - Updated name to be more clear
-    - Added support for PyAL modules, so the best modules will be inserted even if no module requests are specified
+    - Added support for PyAL modules, so the best modules will be inserted if no module requests are specified
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2024-11-14
