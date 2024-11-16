@@ -26,6 +26,7 @@ local alienlife_buildings = {
   ["fwf"] = {"tree-mk01", "tree-mk02", "tree-mk03", "tree-mk04"},
   ["grods-swamp"] = {"grod", "grod-mk02", "grod-mk03", "grod-mk04"},
   ["guar-gum-plantation"] = {"guar-gum", "guar-gum-mk02", "guar-gum-mk03", "guar-gum-mk04"},
+  ["guar-gum-plant"] = {"guar-gum", "guar-gum-mk02", "guar-gum-mk03", "guar-gum-mk04"},
   ["kicalk-plantation"] = {"kicalk", "kicalk-mk02", "kicalk-mk03", "kicalk-mk04"},
   ["moondrop-greenhouse"] = {"moondrop", "moondrop-mk02", "moondrop-mk03", "moondrop-mk04"},
   ["moss-farm"] = {"moss", "moss-mk02", "moss-mk03", "moss-mk04"},
