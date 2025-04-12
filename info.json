@@ -2,6 +2,7 @@
   "name": "building-inserts-modules",
   "version": "1.0.2",
   "title": "Building Ghosts Inserts Modules",
+  "homepage": "https://discord.gg/K3fXMGVc4z",
   "description": "Placing buildings puts modules into them if they are requested.\nSo simple it feels vanilla!\nRequested by infantryman4life on discord",
   "author": "protocol_1903",
   "factorio_version": "2.0",
