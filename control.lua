@@ -46,7 +46,7 @@ local alienlife_buildings = {
 
 script.on_event(defines.events.on_built_entity, function(event)
   -- insert modules if applicable
-  if not event.entity then return end
+  if not event.entity or not event.entity.get_module_inventory() then return end
   inventory = game.players[event.player_index].get_main_inventory()
   if not inventory then return end
   local module_proxy_exists = false

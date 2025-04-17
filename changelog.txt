@@ -1,8 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
-Date: ????
+Date: 2025-04-17
   Bugfixes:
     - Fixed an issue where Guar bean plantation MK 01 would not be filled with modules (cause melon wouldn't fix)
+    - Fixed a crash when module inventory was nil
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2024-11-14
